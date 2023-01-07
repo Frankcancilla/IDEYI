@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>APPCENTER_SECRET</key>
+	<string>6ed2ac30-49e1-4073-87c2-f1ffcb74e81f</string>
+	<key>ATSApplicationFontsPath</key>
+	<string>fonts</string>
+	<key>BuildMachineOSBuild</key>
+	<string>21A559</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>Telegram</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIconName</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>ru.keepcoder.Telegram</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Telegram</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>9.1</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>ru.keepcoder.Telegram</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>tg</string>
+				<string>telegram</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>239167</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>13A1030d</string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
+	<key>DTPlatformVersion</key>
+	<string>12.0</string>
+	<key>DTSDKBuild</key>
+	<string>21A344</string>
+	<key>DTSDKName</key>
+	<string>macosx12.0</string>
+	<key>DTXcode</key>
+	<string>1310</string>
+	<key>DTXcodeBuild</key>
+	<string>13A1030d</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.social-networking</string>
+	<key>LSFileQuarantineEnabled</key>
+	<true/>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.12</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>We need access to your camera so that you can record video messages.</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2016 Telegram. All rights reserved.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>We need access to your location so that you can send your current locations and setup Auto-Night theme</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We need access to your location so that you can send your current locations.</string>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>We need access to your microphone so that you can record voice messages and make calls.</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>SOURCE</key>
+	<string>BETA</string>
+	<key>SUFeedURL</key>
+	<string>https://api.appcenter.ms/v0.1/public/sparkle/apps/6ed2ac30-49e1-4073-87c2-f1ffcb74e81f</string>
+	<key>SUPublicDSAKeyFile</key>
+	<string>dsa_pub.pem</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>SFCompactRounded-Semibold.otf</string>
+	</array>
+</dict>
+</plist>
